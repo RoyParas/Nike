@@ -1,8 +1,29 @@
-# React + Vite
+# Nike Shoes Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive frontend website for a shoes landing page, built using React.js and Tailwind CSS.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive design for various screen sizes
+- Modern and clean user interface
+- Interactive elements with React components
+- Styled using Tailwind CSS for easy customization
+
+## Technologies Used
+
+- React.js
+- Tailwind CSS
+- Vite (for development and build)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/RoyParas/Nike.git
+   cd Nike
+
+2. Install the dependencies:
+    npm install
+
+3. To start the development server: 
+    npm run dev
