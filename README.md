@@ -23,7 +23,9 @@ This is a responsive frontend website for a shoes landing page, built using Reac
    cd Nike
 
 2. Install the dependencies:
+    ```bash
     npm install
 
 3. To start the development server: 
+    ```bash
     npm run dev
